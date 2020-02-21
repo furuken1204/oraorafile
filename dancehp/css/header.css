@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    margin: 0px;
+}
+
+.container {
+    background-color: orangered;
+    width: 2032px;
+    height: 960px;
+    position: relative;
+}
+
+.container p {
+    position: absolute;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 8em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 560px;
+    left: 750px;
+}
+
+.img1 {
+    width: 2032px;
+    height: 959px;
+    border-bottom-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.icon {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}

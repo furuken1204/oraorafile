@@ -1,0 +1,13 @@
+.news {
+    position: absolute;
+    top: 960px;
+    left: 0px;
+    width: 2032px;
+    height: 1024px;
+    background-color: orangered;
+    text-align: center;
+}
+
+.news h1 {
+    font-size: 4em;
+}
